@@ -30,7 +30,5 @@
 ___This Tool is Free For Thunder Rulex User.___</br>
 
 ## SCREENSHOT :
-<br>
-<p align="center">
-<img 20240924-111919.png"/>
-</p>
+
+![Screenshot_20240924-103149](https://github.com/user-attachments/assets/4673d763-7cc2-44f1-beaf-5bf1213fa55c)
